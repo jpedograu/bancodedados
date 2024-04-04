@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>cadrasto</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -27,7 +27,7 @@
 
                         <input type="submit" class="btn btn-success">
                         
-                    </div>
+                    </div> </form>
             </div>
         </div>
     </div>

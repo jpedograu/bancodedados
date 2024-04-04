@@ -17,5 +17,6 @@ $conexao = new mysqli($host,$user,$senha,$banco);
     // 4 realizar um cadrasto,inseri o cadrasto no banco de dados (xamp,admin,banco de dados,(nome do banco),cria,ID= INT
     //NOME=VACHAR,)
     // 5 cria hash.php
+    //amem
  }
 ?>
